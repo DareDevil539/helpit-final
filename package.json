@@ -1,0 +1,19 @@
+{
+  "name": "helpit",
+  "version": "0.0.3",
+  "description": "HelpIT project",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DareDevil539/helpit-final.git"
+  },
+  "author": "daredevil539",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DareDevil539/helpit-final/issues"
+  },
+  "homepage": "https://github.com/DareDevil539/helpit-final#readme"
+}
