@@ -6,11 +6,13 @@ class BasicController
 {
   private $__defaultParams = [
     "materializeIcons" => "https://fonts.googleapis.com/icon?family=Material+Icons",
-    "materializeCss" => "https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css",
-    "materializeJs" => "https://cdn.jsdelivr.net/npm/materialize-css",
+    "materializeCss" => "resources/css/materialize.min.css",
+    "materializeJs" => "resources/js/materialize-css.js",
     "favicon" => "resources/img/favicon.ico",
+    "comfortaa" => "https://fonts.googleapis.com/css?family=Comfortaa:400,700&display=swap&subset=cyrillic-ext,latin-ext",
     "style" => "resources/css/style.css",
-    "jquery" => "https://cdn.jsdelivr.net/npm/jquery",
+    "jquery" => "resources/js/jquery.min.js",
+    "parallax" => "resources/js/parallax.min.js",
     "header" => "components/header.php"
   ];
 
